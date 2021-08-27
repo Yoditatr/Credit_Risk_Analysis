@@ -14,10 +14,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 #### Results: 
 
-- The balanced accuracy score for this model was 66%
-- The precision score for high risk individuals was 1% with a recall score of 74%
-- The precision score for low risk individuals was 100% with a recall score of 58%
-- The overall average precision score was 99% with a recall score of 58%
+- The balanced accuracy score for this model was 65%
+- The precision score for high risk individuals was 1% with a recall score of 69%
+- The precision score for low risk individuals was 100% with a recall score of 60%
+- The overall average precision score was 99% with a recall score of 60%
 
 see code below
 
@@ -27,10 +27,10 @@ see code below
 
 #### Results:
 
-- The balanced accuracy score for this model was 65%
-- The precision score for high risk individuals was 1% with a recall score of 62%
-- The precision score for low risk individuals was 100% with a recall score of 68%
-- The overall average precision score was 99% with a recall score of 68%
+- The balanced accuracy score for this model was 66%
+- The precision score for high risk individuals was 1% with a recall score of 63%
+- The precision score for low risk individuals was 100% with a recall score of 69%
+- The overall average precision score was 99% with a recall score of 69%
 
 see code below
 
@@ -40,10 +40,10 @@ see code below
 
 #### Results:
 
-- The balanced accuracy score for this model was 59%
-- The precision score for high risk individuals was 1% with a recall score of 64%
-- The precision score for low risk individuals was 100% with a recall score of 53%
-- The overall average precision score was 99% with a recall score of 53%
+- The balanced accuracy score for this model was 54%
+- The precision score for high risk individuals was 1% with a recall score of 69%
+- The precision score for low risk individuals was 100% with a recall score of 40%
+- The overall average precision score was 99% with a recall score of 40%
 
 see code below
 
@@ -69,8 +69,8 @@ see code below
 
 #### Results:
 
-- The balanced accuracy score for this model was 78%
-- The precision score for high risk individuals was 3% with a recall score of 57%
+- The balanced accuracy score for this model was 77%
+- The precision score for high risk individuals was 3% with a recall score of 66%
 - The precision score for low risk individuals was 100% with a recall score of 88%
 - The overall average precision score was 99% with a recall score of 88%
 
