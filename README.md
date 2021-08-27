@@ -1,4 +1,6 @@
-# _Credit Risk Analysis_
+# _Credit Risk Analysis with Supervised Machine Learning_
+
+![alt text](https://github.com/Yoditatr/Credit_Risk_Analysis/blob/main/pic.jpg?raw=true)
 
 ### Overview
 
@@ -89,3 +91,10 @@ see code below
 - The overall average precision score was 99% with a recall score of 94%
 
 ![alt text](https://github.com/Yoditatr/Credit_Risk_Analysis/blob/main/Resources/easy%20ensemble%20adaboost%20classifier.PNG?raw=true)
+
+
+### Summary
+
+From the above analysis, models 1 through 4 had accuracy scores of between 54% and 66%. The accuracy of Naive Random Oversampling, Oversampling, Undersampling, and Combinatorial models were much lower than models 5 and 6. The accuracy scores for Balanced Random Forest Classifier model was 77% and the Easy Ensemble AdaBoost Classifier model was the highest at 92%.
+
+I ran different models because I wanted to see which one would have the greatest accuracy and precision in predicting high and low risk loan applicants. With this in mind, I recommend the Easy Ensemble AdaBoost Classifier for predicting credit risk for individuals. The model had an accuracy score of 92%, the highest of all six models I tested. The precision scores for high and low risk indviduals were also much higher at 9% and 94%, respectively, compared to 3% or lower and 72% or lower for the five other models. These higher scores contributed to a higher overall recall mark for the model as well at 94%.
