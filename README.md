@@ -65,7 +65,7 @@ see code below
 
 ![alt text](https://github.com/Yoditatr/Credit_Risk_Analysis/blob/main/Resources/SmoteANN.PNG?raw=true)
 
-### Ensemble Classifiers to Predict Credit Risk
+#### Ensemble Classifiers to Predict Credit Risk
 
 5. Balanced Random Forest Classifier using BalancedRandomForestClassifier
 
